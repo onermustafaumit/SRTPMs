@@ -1,5 +1,7 @@
 # Spatially Resolved Tumor Purity Maps (SRTPMs)
 
+[![DOI](https://zenodo.org/badge/383730935.svg)](https://zenodo.org/badge/latestdoi/383730935)
+
 This repository is the official implementation of [Obtaining Spatially Resolved Tumor Purity Maps Using Deep Multiple Instance Learning In A Pan-cancer Study](https://paper_link). 
 
 We have developed a deep learning-based multiple instance learning (MIL) model predicting tumor purity of a sample from its H&E stained digital histopathology slides. The model's predictions are consistent with genomic tumor purity values, which are computationally inferred from genomic data and accepted as the golden standard. Furthermore, we have obtained spatially resolved tumor purity maps using the trained model to better understand the tumor microenvironment, a primary determinant of therapeutic response.
